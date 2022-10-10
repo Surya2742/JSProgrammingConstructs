@@ -1,0 +1,1 @@
+console.log("Dice Value is " + Math.floor(Math.random() * 6 + 1));
